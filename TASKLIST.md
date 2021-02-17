@@ -6,7 +6,8 @@
     - [x] Goal statement
     - [x] Task list
 - [x] Create Changelog
-- [ ] Create blank page frameworks in separate branches
+- [ ] Create placeholder pages with common elements
+- [ ] Add content to each page on separate branches
     - [ ] Homepage
     - [ ] About
     - [ ] Team
