@@ -7,3 +7,4 @@
 Feature | Initial commit | Phil | 20210209
 Task | Added README, CHANGELOG, gitignore | Phil | 20210209
 Task | Cleaned up README, added TASKLIST | Phil | 20210216
+Fix | Formatting on TASKLIST | Phil | 20210216
