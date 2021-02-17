@@ -6,7 +6,7 @@
     - [x] Goal statement
     - [x] Task list
 - [x] Create Changelog
-- [ ] Create placeholder pages with common elements
+- [x] Create placeholder pages with common elements
 - [ ] Add content to each page on separate branches
     - [ ] Homepage
     - [ ] About
