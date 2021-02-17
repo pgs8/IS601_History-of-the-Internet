@@ -6,3 +6,9 @@
 2. Paola Leiva 
 
 ## Goal 
+Make a website about the history of the Internet.
+
+## Navigation
+- [Project Homepage](/docs/index.html)
+- [Task List](/TASKLIST.md)
+- [Change Log](CHANGELOG.md)
