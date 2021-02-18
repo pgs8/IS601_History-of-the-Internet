@@ -11,3 +11,4 @@ Fix | Formatting on TASKLIST | Phil | 20210216
 Task | Created placeholder pages | Phil | 20210216
 Fix | Updated TASKLIST to reflect progress | Phil | 20210216
 Feature | Added content to Browser Wars | Phil | 20210217
+Fix | Reformatted HTML code for readability | Phil | 20210217
