@@ -12,7 +12,7 @@
     - [ ] About
     - [ ] Team
     - [X] Invention of the Internet
-    - [ ] Browser Wars
+    - [x] Browser Wars
     - [ ] Internet Search
     - [ ] Dot Com Bubble
     - [ ] People
