@@ -11,7 +11,7 @@
     - [ ] Homepage
     - [ ] About
     - [ ] Team
-    - [ ] Invention of the Internet
+    - [X] Invention of the Internet
     - [ ] Browser Wars
     - [ ] Internet Search
     - [ ] Dot Com Bubble
