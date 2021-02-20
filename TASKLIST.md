@@ -9,7 +9,7 @@
 - [x] Create placeholder pages with common elements
 - [ ] Add content to each page on separate branches
     - [ ] Homepage
-    - [ ] About
+    - [x] About
     - [ ] Team
     - [X] Invention of the Internet
     - [x] Browser Wars
