@@ -16,6 +16,7 @@
     - [ ] Internet Search
     - [ ] Dot Com Bubble
     - [ ] People
+    - [x] About the Professor
 - [x] Watch videos
 - [x] Write content based on videos
 - [ ] Add content to each page in each branch
