@@ -15,6 +15,7 @@ Fix | Reformatted HTML code for readability | Phil | 20210217
 Task | Updated TASKLIST | Phil | 20210217
 Feature | Added content to Browser Wars | Phil | 20210217
 Fix | Reformatted HTML code for readability | Phil | 20210217
-Task | Updated TASKLIST | Phil 20210217
+Task | Updated TASKLIST | Phil | 20210217
 Task | Merged Invention of Internet in master branch | Phil | 20210220 
 Task | Rebased Browser Wars branch to reflect UI changes from History of Internet branch | Phil | 20210220
+Fix | Updated UI on browser_wars.html | Phil | 20210220
