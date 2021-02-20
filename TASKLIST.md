@@ -13,7 +13,7 @@
     - [ ] Team
     - [X] Invention of the Internet
     - [x] Browser Wars
-    - [ ] Internet Search
+    - [x] Internet Search
     - [ ] Dot Com Bubble
     - [ ] People
     - [x] About the Professor

@@ -23,3 +23,4 @@ Feature | Added content to About | Phil | 20210220
 Feature | Added Phil's content to Team | Phil | 20210220
 Feature | Added content to professor_williams.html | Phil | 20210220
 Fix | Updated UI on all pages | Phil | 20210220
+Feature | Added content to Internet Search | Phil | 20210220
