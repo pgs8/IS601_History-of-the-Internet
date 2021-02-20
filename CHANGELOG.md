@@ -13,3 +13,4 @@ Fix | Updated TASKLIST to reflect progress | Phil | 20210216
 Feature | Added content to Invention of Internet | Phil | 20210217
 Fix | Reformatted HTML code for readability | Phil | 20210217
 Task | Updated TASKLIST | Phil | 20210217
+Task | Merged Invention of Internet in master branch | Phil | 20210220 
