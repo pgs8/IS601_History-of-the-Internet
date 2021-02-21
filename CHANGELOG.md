@@ -26,3 +26,4 @@ Fix | Updated UI on all pages | Phil | 20210220
 Feature | Added content to Internet Search | Phil | 20210220
 Feature | Added content to Dot Com Bubble | Phil | 20210221
 Feature | Added content to People | Paola | 20210221
+Feature | Added Paola's content to Team | Paola | 20210221

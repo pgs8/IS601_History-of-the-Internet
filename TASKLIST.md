@@ -10,7 +10,7 @@
 - [ ] Add content to each page on separate branches
     - [ ] Homepage
     - [x] About
-    - [ ] Team
+    - [x] Team
     - [X] Invention of the Internet
     - [x] Browser Wars
     - [x] Internet Search
@@ -21,5 +21,5 @@
 - [x] Write content based on videos
 - [ ] Add content to each page in each branch
 - [ ] Merge all branches back into master branch
-- [ ] Link all pages
+- [x] Link all pages
 - [ ] Setup GitHub Pages
