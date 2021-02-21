@@ -15,7 +15,7 @@
     - [x] Browser Wars
     - [x] Internet Search
     - [x] Dot Com Bubble
-    - [ ] People
+    - [x] People
     - [x] About the Professor
 - [x] Watch videos
 - [x] Write content based on videos
