@@ -7,8 +7,8 @@
     - [x] Task list
 - [x] Create Changelog
 - [x] Create placeholder pages with common elements
-- [ ] Add content to each page on separate branches
-    - [ ] Homepage
+- [x] Add content to each page on separate branches
+    - [x] Homepage
     - [x] About
     - [x] Team
     - [X] Invention of the Internet
