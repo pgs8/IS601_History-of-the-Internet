@@ -29,3 +29,4 @@ Feature | Added content to People | Paola | 20210221
 Feature | Added Paola's content to Team | Paola | 20210221
 Fix | Updated navbar to match on all pages | Phil | 20210221
 Feature | Added content to homepage | Phil | 20210221
+Fix | Corrected typos | Phil 20210221
