@@ -19,7 +19,7 @@
     - [x] About the Professor
 - [x] Watch videos
 - [x] Write content based on videos
-- [ ] Add content to each page in each branch
-- [ ] Merge all branches back into master branch
+- [x] Add content to each page in each branch
+- [x] Merge all branches back into master branch
 - [x] Link all pages
-- [ ] Setup GitHub Pages
+- [x] Setup GitHub Pages

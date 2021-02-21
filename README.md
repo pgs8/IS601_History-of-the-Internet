@@ -9,6 +9,6 @@
 Make a website about the history of the Internet.
 
 ## Navigation
-- [Project Homepage](/docs/index.html)
+- [Project Homepage](https://pgs8.github.io/IS601_History-of-the-Internet/)
 - [Task List](/TASKLIST.md)
 - [Change Log](CHANGELOG.md)
