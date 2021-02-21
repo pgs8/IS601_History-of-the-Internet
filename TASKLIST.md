@@ -14,7 +14,7 @@
     - [X] Invention of the Internet
     - [x] Browser Wars
     - [x] Internet Search
-    - [ ] Dot Com Bubble
+    - [x] Dot Com Bubble
     - [ ] People
     - [x] About the Professor
 - [x] Watch videos
